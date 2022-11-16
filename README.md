@@ -1,2 +1,2 @@
 # aura-ds-bot
-Discord bot: Aura
+**Discord bot:** Aura
